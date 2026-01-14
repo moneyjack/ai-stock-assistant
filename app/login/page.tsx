@@ -54,7 +54,7 @@ export default function LoginPage() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-gray-900 text-white">
       <div className="w-full max-w-md p-8 space-y-6 bg-gray-800 rounded-lg shadow-xl border border-gray-700">
-        <h2 className="text-3xl font-bold text-center text-blue-500">AI Stock Agent</h2>
+        <h2 className="text-3xl font-bold text-center text-blue-500">Tik Sir Get Rich AI</h2>
         <p className="text-center text-gray-400">請先登入以管理您的投資組合</p>
         
         {message && (
